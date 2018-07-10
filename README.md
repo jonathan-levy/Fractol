@@ -9,6 +9,7 @@ Commands to launch the app:
 $ make
 <br />
 To see the usage:
+<br />
 $./fractol
 
 
