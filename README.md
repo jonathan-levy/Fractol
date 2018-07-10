@@ -10,6 +10,6 @@ $ make
 <br />
 To see the usage:
 <br />
-$./fractol
+$ ./fractol
 
 
